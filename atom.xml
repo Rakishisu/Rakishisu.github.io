@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Rakishisu.github.io</id>
     <title>Rakishisu</title>
-    <updated>2020-03-26T09:53:48.923Z</updated>
+    <updated>2020-03-26T09:54:53.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Rakishisu.github.io"/>
     <link rel="self" href="https://Rakishisu.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://Rakishisu.github.io/images/avatar.png</logo>
     <icon>https://Rakishisu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Rakishisu</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Rakishisu.github.io/post/about/</id>
+        <link href="https://Rakishisu.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Rakishisu.github.io/post/hello-gridea/</id>
